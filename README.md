@@ -12,4 +12,4 @@ Technologies used:
 Brief overview:
 ![](./screen1.PNG)
 
-[Link to the application]()
+[Link to the application](https://bartlomiej-fr.github.io/guess-number-game/)
