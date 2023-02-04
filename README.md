@@ -1,4 +1,4 @@
-# Business card page
+# Guess number game
 
 A game of hitting a random number.
 
